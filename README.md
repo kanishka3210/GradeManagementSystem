@@ -84,16 +84,16 @@ The `out/` directory is generated during compilation and is not included in vers
 
 ## Screenshots
 
-## 1. Main Menu
+### 1. Main Menu
 ![Main Menu](Screenshots/01-main-menu.png)
 
-## 2. Student Records
+### 2. Student Records
 ![Student Records](Screenshots/02-student-records.png)
 
-## 3. Performance Report
+### 3. Performance Report
 ![Performance Report](Screenshots/03-performance-report.png)
 
-## 4. Input Validation
+### 4. Input Validation
 ![Input Validation](Screenshots/04-input-validation.png)
 
 
