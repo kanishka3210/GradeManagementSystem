@@ -43,16 +43,22 @@ The system manages marks for five subjects:
 | Below 60 | F |
 
 ## Project Structure
-
-text
+```text
 GradeManagementSystem/
 ├── src/
 │   └── GradeManagementSystem.java
 ├── docs/
+│   ├── UserManual.md
+│   └── Testing.md
 ├── Screenshots/
+│   ├── 01-main-menu.png
+│   ├── 02-student-records.png
+│   ├── 03-performance-report.png
+│   └── 04-input-validation.png
 ├── test_data/
 ├── .gitignore
 └── README.md
+```
 
 
 The `out/` directory is generated during compilation and is not included in version control.
@@ -76,17 +82,19 @@ The `out/` directory is generated during compilation and is not included in vers
 
 4. Select an option from the menu and follow the prompts.
 
-## Sample Output
+## Screenshots
 
-text
-===== GRADE MANAGEMENT SYSTEM =====
-1. Add Student Marks
-2. View All Students
-3. Calculate Averages and Grades
-4. Find Top Performers
-5. Generate Performance Report
-6. Search Student
-7. Exit
+## 1. Main Menu
+![Main Menu](Screenshots/01-main-menu.png)
+
+## 2. Student Records
+![Student Records](Screenshots/02-student-records.png)
+
+## 3. Performance Report
+![Performance Report](Screenshots/03-performance-report.png)
+
+## 4. Input Validation
+![Input Validation](Screenshots/04-input-validation.png)
 
 
 ## Limitations
