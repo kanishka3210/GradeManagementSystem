@@ -96,6 +96,15 @@ The `out/` directory is generated during compilation and is not included in vers
 ### 4. Input Validation
 ![Input Validation](Screenshots/04-input-validation.png)
 
+## Technical Details
+
+- **Data Structures:** Arrays store student names and a two-dimensional array stores marks for five subjects.
+- **Average Calculation:** The program adds a student's five subject marks and divides the total by five.
+- **Highest and Lowest Marks:** The program compares the subject marks to identify the highest and lowest values.
+- **Grade Classification:** Students receive grades A, B, C, D, or F according to their average.
+- **Search Algorithm:** The program searches student names and supports case-insensitive matching.
+- **Input Validation:** Marks must be numeric values between 0 and 100, inclusive.
+- **Data Storage:** Student records remain in memory while the program runs and are cleared when it exits.
 
 ## Limitations
 
